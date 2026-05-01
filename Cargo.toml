@@ -15,4 +15,4 @@ serde_json = "1.0"
 jsonrpc-lite = "0.5"
 thiserror = "1.0"
 anyhow = "1.0"
-psp-types = "0.1.2"
+psp-types = { git = "https://github.com/nilknow/psp-types", branch = "master" }
